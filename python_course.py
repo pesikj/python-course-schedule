@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 # Original data
 course_data = [
-    ["Úvod, slicing, metody, moduly", ["https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing"], ""],
+    ["Úvod, slicing, metody, moduly", ["https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing"], "https://forms.gle/pKGqqRKp7i4JwWEcA"],
     ["Funkce, slovníky", [], ""],
     ["Slovníky, GitHub, coding style", [], ""],
     ["Objektově orientované programování", [], ""],
@@ -30,7 +30,7 @@ for i, lecture in enumerate(course_data):
         lecture_date.strftime("%Y-%m-%d"),
         lecture[0],
         ", ".join([format_link(link) for link in lecture[1]]),
-        lecture[2]
+        format_link(lecture[2]),
     ])
 
 # Streamlit app
