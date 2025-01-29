@@ -30,7 +30,7 @@ for i, lecture in enumerate(course_data):
         lecture_date.strftime("%Y-%m-%d"),
         lecture[0],
         ", ".join([format_link(link) for link in lecture[1]]),
-        format_link(lecture[2]),
+        format_link(lecture[2]) if lecture[2] else "",
     ])
 
 # Streamlit app
