@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 # Original data
 course_data = [
     ["Úvod, slicing, metody, moduly", ["https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing"], "https://forms.gle/pKGqqRKp7i4JwWEcA"],
-    ["Funkce, slovníky", ["https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/funkce", "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slovniky/n-tice"], ""],
+    ["Funkce, slovníky", ["https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/funkce", "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slovniky/n-tice"], "https://forms.gle/smo9LFs9YZKipb6d9"],
     ["Slovníky", [], ""],
     ["Objektově orientované programování", [], ""],
     ["Objektově orientované programování", [], ""],
