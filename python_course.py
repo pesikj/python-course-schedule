@@ -8,7 +8,7 @@ course_data = [
     ["Slovníky", ["https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slovniky/n-tice"], "https://forms.gle/D5Je3iy72M5DeXcc7"],
     ["Objektově orientované programování", ["https://kodim.cz/czechitas/python-oop/lekce/tridy/tridy"], "https://forms.gle/fCop4zQTSLUioPaNA"],
     ["Objektově orientované programování", ["https://kodim.cz/czechitas/python-oop/lekce/dedicnost/dedicnost"], "https://forms.gle/5naC236BLov34GkW7"],
-    ["Objektově orientované programování", [], ""],
+    ["Objektově orientované programování", ["https://kodim.cz/czechitas/python-oop/lekce/dedicnost/dalsi-funkce"], "https://forms.gle/j2zDJed3KXmTbua29"],
     ["Datum a čas, instalace balíčků pomocí pip, AI nástroje ve vývoji", [], ""],
     ["Čtení a zápis textových souborů", "", ""],
     ["JSON a API", [], ""],
