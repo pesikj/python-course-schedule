@@ -11,7 +11,7 @@ course_data = [
     ["Objektově orientované programování", ["https://kodim.cz/czechitas/python-oop/lekce/dedicnost/dalsi-funkce"], "https://forms.gle/j2zDJed3KXmTbua29"],
     ["Datum a čas, instalace balíčků pomocí pip", ["https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/datum/datum", "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/balicky-z-internetu/lesson"], "https://forms.gle/22c5KH81ZtwRhWS88"],
     ["Čtení a zápis textových souborů", ["https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/soubory/cteni-souboru"], "https://forms.gle/ahehRYyzb71wbV53A"],
-    ["JSON a API", [], ""],
+    ["JSON a API", ["https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/json/format-json"], "https://forms.gle/759cbw2QGMnxw4BM8"],
     ["Obsluha výjimek", [], ""],
     ["Regulární výrazy", [], ""],
     ["Rezerva", [], ""]
