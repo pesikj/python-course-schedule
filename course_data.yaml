@@ -1,0 +1,43 @@
+programovani-v-pythonu:
+  name: Programování v Pythonu
+  lectures:
+    - title: "Úvod, slicing, metody, moduly"
+      repository: https://github.com/Czechitas-Python/uvod-do-progr-2
+      resources:
+        - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing"
+    - title: "Funkce, slovníky"
+      repository: https://github.com/Czechitas-Python/uvod-do-progr-2
+      resources:
+        - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/funkce"
+    - title: "Slovníky"
+      repository: https://github.com/Czechitas-Python/uvod-do-progr-2
+      resources:
+        - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slovniky/n-tice"
+    - title: "Objektově orientované programování"
+      resources:
+        - "https://kodim.cz/czechitas/python-oop/lekce/tridy/tridy"
+    - title: "Objektově orientované programování"
+      resources:
+        - "https://kodim.cz/czechitas/python-oop/lekce/dedicnost/dedicnost"
+    - title: "Objektově orientované programování"
+      resources:
+        - "https://kodim.cz/czechitas/python-oop/lekce/dedicnost/dalsi-funkce"
+    - title: "Datum a čas, instalace balíčků pomocí pip"
+      repository: https://github.com/Czechitas-Python/uvod-do-progr-2
+      resources:
+        - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/datum/datum"
+        - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/balicky-z-internetu/lesson"
+    - title: "Čtení a zápis textových souborů"
+      repository: https://github.com/Czechitas-Python/uvod-do-progr-2
+      resources:
+        - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/soubory/cteni-souboru"
+    - title: "JSON a API"
+      repository: https://github.com/Czechitas-Python/uvod-do-progr-2
+      resources:
+        - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/json/format-json"
+    - title: "Obsluha výjimek"
+      resources: []
+    - title: "Regulární výrazy"
+      resources: []
+    - title: "Rezerva"
+      resources: []
