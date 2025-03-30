@@ -1,4 +1,3 @@
-pyyaml
-st-gsheets-connection
-json
-st-gsheets-connection
+pyyaml==6.0.2
+st-gsheets-connection==0.1.0
+requests==2.32.3
