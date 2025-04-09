@@ -37,8 +37,10 @@ programovani-v-pythonu:
         - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/json/format-json"
     - title: "Obsluha výjimek"
       repository: https://github.com/Czechitas-Python/uvod-do-progr-2
-      resources: ["https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/vyjimky/chyby-v-programu"]
+      resources: 
+        - "https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/vyjimky/chyby-v-programu"
     - title: "Regulární výrazy"
-      resources: ["https://kodim.cz/czechitas/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy"]
+      resources: 
+        - "https://kodim.cz/czechitas/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy"
     - title: "Testování"
       resources: []
